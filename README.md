@@ -18,7 +18,7 @@
 - backgrounds
 - animations
 
-## live instance
+## website
 
 [anariaon.top](https://anariaon.top)
 
